@@ -1,0 +1,8 @@
+com\learning\amit\dto\LogEvent.class
+com\learning\amit\AmitApplication.class
+com\learning\amit\repository\AuditDao.class
+com\learning\amit\controller\AuditController.class
+com\learning\amit\dto\Location.class
+com\learning\amit\repository\AuditDaoImpl.class
+com\learning\amit\controller\service\AuditService.class
+com\learning\amit\controller\service\AuditServiceImp.class
